@@ -781,3 +781,1256 @@ LogInit: Object subsystem initialized
 [2020.01.20-20.12.53:809][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
 [2020.01.20-20.13.02:493][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
 [2020.01.20-20.13.02:568][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.20-22.36.02:609][871]LogRenderer: Reallocating scene render targets to support 1088x492 Format 10 NumSamples 1 (Frame:607).
+[2020.01.20-22.36.11:640][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-22.36.11:862][999]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-22.36.11:931][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.20-22.36.11:932][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-22.36.11:932][999]PIE: New page: PIE session: Labyrinth (20 sty 2020, 22:36:11)
+[2020.01.20-22.36.11:933][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.20-22.36.11:949][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015204s)
+[2020.01.20-22.36.11:951][999]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.20-22.36.11:952][999]LogPlayLevel: PIE: World Init took: (0.002792s)
+[2020.01.20-22.36.11:952][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.018926s)
+[2020.01.20-22.36.11:994][999]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-22.36.12:026][999]LogInit: FAudioDevice initialized.
+[2020.01.20-22.36.12:061][999]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-22.36.12:064][999]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 60) at 2020.01.20-22.36.12
+[2020.01.20-22.36.12:064][999]LogWorld: Bringing up level for play took: 0.001763
+[2020.01.20-22.36.12:067][999]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,102
+[2020.01.20-22.36.12:067][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.20-22.36.25:099][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.20-22.36.25:162][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.20-22.36.27:670][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-23.09.58:440][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.10.10:440][508]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.10.22:439][544]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.10.31:773][572]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.10.43:776][608]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.10.53:110][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.11.02:443][664]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.11.23:776][728]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.11.33:110][756]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.11.45:111][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.11.54:445][820]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.12.15:779][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.12.25:113][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.12.46:449][976]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.12.55:781][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.05:115][ 32]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.14:449][ 60]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.23:782][ 88]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.41:119][140]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.50:453][168]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.13.59:786][196]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.14.09:119][224]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.14.19:786][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.14.34:453][300]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-23.14.43:786][328]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.21-10.35.55:930][ 88]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.21-10.36.02:329][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.21-10.36.11:663][136]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.22-00.04.17:303][632]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.22-14.14.33:723][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.14.35:531][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.15.03:904][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.15.04:037][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.15.04:151][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.15.04:153][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.22-14.15.04:165][661]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:15:04)
+[2020.01.22-14.15.04:166][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.15.04:252][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084941s)
+[2020.01.22-14.15.04:257][661]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.15.04:269][661]LogPlayLevel: PIE: World Init took: (0.017160s)
+[2020.01.22-14.15.04:270][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.104158s)
+[2020.01.22-14.15.04:445][661]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.15.04:480][661]LogInit: FAudioDevice initialized.
+[2020.01.22-14.15.04:554][661]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.15.04:584][661]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 60) at 2020.01.22-14.15.04
+[2020.01.22-14.15.04:586][661]LogWorld: Bringing up level for play took: 0.021656
+[2020.01.22-14.15.04:619][661]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,655
+[2020.01.22-14.15.04:620][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.15.16:155][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.15.16:264][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.15.28:821][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.17.18:888][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.19.11:695][ 65]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorRotation' [Nie można odnaleźć elementu.]
+[2020.01.22-14.19.49:057][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2d2b12400, Size=872
+[2020.01.22-14.19.49:057][727]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c18fc80, Size=872, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_67:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.19.49:087][727]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c18e400, Size=872, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.19.49:643][727]LogSavePackage: Save=678.48ms
+[2020.01.22-14.19.49:644][727]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Labyrinth_Auto162AF95DB4990B9DFF323668582E4A364.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto1.umap'
+[2020.01.22-14.19.49:648][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto1.umap
+[2020.01.22-14.19.49:664][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Labyrinth' took 0.813
+[2020.01.22-14.19.49:664][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.813
+[2020.01.22-14.20.57:674][946]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorRotation' [Nie można odnaleźć elementu.]
+[2020.01.22-14.27.41:920][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.27.41:992][362]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.27.42:086][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.27.42:087][362]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.27.42:099][362]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.27.42:106][362]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c18e400, Size=872
+[2020.01.22-14.27.42:106][362]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d010100, Size=872, Labyrinth_C_0 Function /Engine/Transient.REINST_Labyrinth_C_71:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.27.42:109][362]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a282b22bc0, Size=164, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.27.42:276][362]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c18fc80, Size=872
+[2020.01.22-14.27.42:277][362]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d010100, Size=872
+[2020.01.22-14.27.42:278][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2020.01.22-14.27.42:278][362]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:27:42)
+[2020.01.22-14.27.42:278][362]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.27.42:284][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004960s)
+[2020.01.22-14.27.42:285][362]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.27.42:286][362]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2020.01.22-14.27.42:286][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.007409s)
+[2020.01.22-14.27.42:366][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.27.42:447][362]LogInit: FAudioDevice initialized.
+[2020.01.22-14.27.42:486][362]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.27.42:488][362]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 60) at 2020.01.22-14.27.42
+[2020.01.22-14.27.42:489][362]LogWorld: Bringing up level for play took: 0.001772
+[2020.01.22-14.27.42:491][362]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,527
+[2020.01.22-14.27.42:492][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.28.28:250][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.28.28:311][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.29.00:723][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.30.36:267][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a282b22bc0, Size=164
+[2020.01.22-14.30.36:267][807]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3047496c0, Size=164, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_75:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.30.36:271][807]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a305cfbb80, Size=164, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.30.36:531][807]LogSavePackage: Save=296.51ms
+[2020.01.22-14.30.36:531][807]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Labyrinth_Auto2DE878E9D4AAE467CE281F5B1DEC41122.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto2.umap'
+[2020.01.22-14.30.36:534][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto2.umap
+[2020.01.22-14.30.36:538][807]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Labyrinth' took 0.364
+[2020.01.22-14.30.36:539][807]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.364
+[2020.01.22-14.39.21:199][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.44.42:190][353]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.42:217][353]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8cc10, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.42:562][358]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.42:564][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8cc10, Size=4
+[2020.01.22-14.44.42:564][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8cc10, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_79:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.42:568][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d760, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.42:926][365]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.42:941][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d760, Size=4
+[2020.01.22-14.44.42:941][365]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d760, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_81:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.42:947][365]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e4d0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:093][366]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.43:095][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e4d0, Size=4
+[2020.01.22-14.44.43:095][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e4d0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_83:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:098][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c970, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:191][367]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.43:192][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c970, Size=4
+[2020.01.22-14.44.43:192][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c970, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_85:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:195][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e3b0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:315][369]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.43:317][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e3b0, Size=4
+[2020.01.22-14.44.43:317][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e3b0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_87:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:323][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f830, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:457][372]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.43:459][372]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f830, Size=4
+[2020.01.22-14.44.43:459][372]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f830, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_89:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:461][372]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f7e8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:589][374]LogEditorTransaction: Undo Change Bool Pin Value
+[2020.01.22-14.44.43:591][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f7e8, Size=4
+[2020.01.22-14.44.43:591][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f7e8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_91:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:594][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c158, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:720][376]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.43:721][376]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c158, Size=4
+[2020.01.22-14.44.43:721][376]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c158, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_93:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:724][376]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d9b0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:858][379]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.43:859][379]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d9b0, Size=4
+[2020.01.22-14.44.43:859][379]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d9b0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_95:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.43:863][379]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d920, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:018][382]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.44:020][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d920, Size=4
+[2020.01.22-14.44.44:020][382]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d920, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_97:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:026][382]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8cbe0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:143][383]LogEditorTransaction: Undo Create Pin Link
+[2020.01.22-14.44.44:145][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8cbe0, Size=4
+[2020.01.22-14.44.44:145][383]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8cbe0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_99:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:151][383]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c688, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:292][386]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.44:293][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c688, Size=4
+[2020.01.22-14.44.44:294][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8c688, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_101:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:297][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f828, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:392][387]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.44:394][387]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f828, Size=4
+[2020.01.22-14.44.44:394][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f828, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_103:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:413][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8dba0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:539][388]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.44:542][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8dba0, Size=4
+[2020.01.22-14.44.44:542][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8dba0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_105:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:548][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e290, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:691][390]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.44:693][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e290, Size=4
+[2020.01.22-14.44.44:693][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e290, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_107:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:700][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d130, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:867][394]LogEditorTransaction: Undo Create Pin Link
+[2020.01.22-14.44.44:870][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d130, Size=4
+[2020.01.22-14.44.44:870][394]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d130, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_109:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.44:878][394]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f2b0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:202][400]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.45:206][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f2b0, Size=4
+[2020.01.22-14.44.45:207][400]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f2b0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_111:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:216][400]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8def0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:406][403]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.45:409][403]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8def0, Size=4
+[2020.01.22-14.44.45:409][403]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8def0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_113:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:415][403]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8fa28, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:618][407]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.45:619][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8fa28, Size=4
+[2020.01.22-14.44.45:619][407]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8fa28, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_115:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:625][407]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f8c0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.45:832][411]LogEditorTransaction: Undo Create Pin Link
+[2020.01.22-14.44.45:998][414]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.45:999][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f8c0, Size=4
+[2020.01.22-14.44.45:999][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8f8c0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_117:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:015][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8de90, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:155][417]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.46:157][417]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8de90, Size=4
+[2020.01.22-14.44.46:158][417]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8de90, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_119:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:163][417]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e488, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:265][418]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.46:267][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e488, Size=4
+[2020.01.22-14.44.46:267][418]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8e488, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_121:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:269][418]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30cc8d3d0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:448][422]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.46:450][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d3d0, Size=4
+[2020.01.22-14.44.46:450][422]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4dd8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_123:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:455][422]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7dd0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:576][424]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.46:578][424]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7dd0, Size=4
+[2020.01.22-14.44.46:578][424]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7dd0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_125:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:582][424]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6550, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:719][427]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.46:733][427]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6550, Size=4
+[2020.01.22-14.44.46:733][427]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6550, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_127:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.46:736][427]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6f70, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:036][433]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.47:037][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6f70, Size=4
+[2020.01.22-14.44.47:038][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6f70, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_129:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:041][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f5ad0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:198][436]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.47:200][436]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f5ad0, Size=4
+[2020.01.22-14.44.47:201][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f5ad0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_131:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:206][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6608, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:333][438]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.47:334][438]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6608, Size=4
+[2020.01.22-14.44.47:334][438]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6608, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_133:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:336][438]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f66f0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:473][441]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.47:475][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f66f0, Size=4
+[2020.01.22-14.44.47:475][441]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f66f0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_135:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:480][441]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4e88, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:624][442]LogEditorTransaction: Undo Create Pin Link
+[2020.01.22-14.44.47:728][445]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.47:729][445]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4e88, Size=4
+[2020.01.22-14.44.47:729][445]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4e88, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_137:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:733][445]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7658, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:901][447]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.47:903][447]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7658, Size=4
+[2020.01.22-14.44.47:903][447]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7658, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_139:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.47:909][447]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7188, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.48:436][457]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.48:438][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7188, Size=4
+[2020.01.22-14.44.48:439][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7188, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_141:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.48:445][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7898, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.49:247][470]LogEditorTransaction: Undo Delete current selection
+[2020.01.22-14.44.49:250][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7898, Size=4
+[2020.01.22-14.44.49:250][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f7898, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_143:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.49:253][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6190, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.49:793][480]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.44.49:794][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6190, Size=4
+[2020.01.22-14.44.49:794][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f6190, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_145:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.49:800][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4c48, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.50:480][492]LogEditorTransaction: Undo Add Node
+[2020.01.22-14.44.50:482][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4c48, Size=4
+[2020.01.22-14.44.50:482][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4c48, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_147:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.50:487][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f72d8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.51:390][508]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f72d8, Size=4
+[2020.01.22-14.44.51:391][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f72d8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_149:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.51:397][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4c20, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.52:772][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4c20, Size=4
+[2020.01.22-14.44.52:773][533]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f4c20, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_151:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.44.52:798][533]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f45c8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.05:528][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f45c8, Size=4
+[2020.01.22-14.45.05:528][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2dc8ad0c8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_153:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.05:536][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2dc8ac4b0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.06:104][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2dc8ac4b0, Size=4
+[2020.01.22-14.45.06:104][778]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f5028, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_155:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.06:112][778]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f52c0, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.24:366][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f52c0, Size=4
+[2020.01.22-14.45.24:366][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a304b361a0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_157:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.24:371][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a304b344e8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.29:822][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a304b344e8, Size=4
+[2020.01.22-14.45.29:823][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a305efa180, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_159:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.45.29:831][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a305ef9320, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.46.04:750][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a305ef9320, Size=4
+[2020.01.22-14.46.04:751][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a31ecb9cc0, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_161:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.46.04:761][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a31ecb9c40, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.46.20:051][121]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a31ecb9c40, Size=4
+[2020.01.22-14.46.20:051][121]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c668668, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_163:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.46.20:055][121]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c668280, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.47.18:936][204]LogEditorTransaction: Undo Move Node
+[2020.01.22-14.47.18:941][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c668280, Size=4
+[2020.01.22-14.47.18:941][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d7ee290, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_165:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.47.18:961][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d7ee8e8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.47.20:963][238]LogEditorTransaction: Undo Create Pin Link
+[2020.01.22-14.47.20:964][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d7ee8e8, Size=4
+[2020.01.22-14.47.20:964][238]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c669340, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_167:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.47.20:970][238]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c6682e8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c970, Size=4
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e4d0, Size=4
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d760, Size=4
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8cc10, Size=4
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3047496c0, Size=164
+[2020.01.22-14.48.02:573][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e3b0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f830, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f7e8, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c158, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d9b0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d920, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8cbe0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8c688, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f828, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8dba0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e290, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8d130, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f2b0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8def0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8fa28, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8f8c0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8de90, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30cc8e488, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4dd8, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7dd0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6550, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6f70, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f5ad0, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6608, Size=4
+[2020.01.22-14.48.02:574][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f66f0, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4e88, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7658, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7188, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f7898, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f6190, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4c48, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f72d8, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f4c20, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2dc8ad0c8, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f5028, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a304b361a0, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a305efa180, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a31ecb9cc0, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c668668, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d7ee290, Size=4
+[2020.01.22-14.48.02:575][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c669340, Size=4
+[2020.01.22-14.48.02:631][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c6682e8, Size=4
+[2020.01.22-14.48.02:631][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c5396b8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_169:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.48.02:640][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a305cfbb80, Size=164
+[2020.01.22-14.48.02:640][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2d2255240, Size=164, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_171:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.48.02:646][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2836b7a00, Size=720, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.48.02:967][  4]LogSavePackage: Save=351.20ms
+[2020.01.22-14.48.02:967][  4]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Labyrinth_Auto37E3944AA4F110C94E960A0A1F7EF5653.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto3.umap'
+[2020.01.22-14.48.02:977][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto3.umap
+[2020.01.22-14.48.02:990][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Labyrinth' took 0.467
+[2020.01.22-14.48.02:990][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.467
+[2020.01.22-14.48.04:153][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.48.04:181][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.48.05:443][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.48.05:512][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.48.05:512][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.22-14.48.05:513][ 51]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:48:05)
+[2020.01.22-14.48.05:513][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.48.05:525][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011906s)
+[2020.01.22-14.48.05:529][ 51]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.48.05:529][ 51]LogPlayLevel: PIE: World Init took: (0.003607s)
+[2020.01.22-14.48.05:529][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.016025s)
+[2020.01.22-14.48.05:577][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2d2255240, Size=164
+[2020.01.22-14.48.05:577][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c5396b8, Size=4
+[2020.01.22-14.48.05:592][ 51]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.48.05:636][ 51]LogInit: FAudioDevice initialized.
+[2020.01.22-14.48.05:677][ 51]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.48.05:679][ 51]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.48.05
+[2020.01.22-14.48.05:680][ 51]LogWorld: Bringing up level for play took: 0.001920
+[2020.01.22-14.48.05:683][ 51]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth -0,281
+[2020.01.22-14.48.05:683][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.48.13:880][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.48.13:994][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.48.19:053][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.48.32:775][612]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Nie można odnaleźć elementu.]
+[2020.01.22-14.49.04:216][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.49.04:298][161]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.49.04:365][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.49.04:366][161]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.49.04:395][161]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.49.04:411][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2836b7a00, Size=720
+[2020.01.22-14.49.04:411][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a317d0eb00, Size=720, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_175:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.49.04:420][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a31e592500, Size=736, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.49.04:714][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a317d0eb00, Size=720
+[2020.01.22-14.49.04:714][161]LogPlayLevel: PlayLevel: Blueprint regeneration took 348 ms (1 blueprints)
+[2020.01.22-14.49.04:715][161]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:49:04)
+[2020.01.22-14.49.04:715][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.49.04:728][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012598s)
+[2020.01.22-14.49.04:730][161]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.49.04:730][161]LogPlayLevel: PIE: World Init took: (0.002172s)
+[2020.01.22-14.49.04:731][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.015648s)
+[2020.01.22-14.49.04:788][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.49.04:846][161]LogInit: FAudioDevice initialized.
+[2020.01.22-14.49.04:892][161]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.49.04:894][161]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.49.04
+[2020.01.22-14.49.04:895][161]LogWorld: Bringing up level for play took: 0.001477
+[2020.01.22-14.49.04:897][161]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,933
+[2020.01.22-14.49.04:898][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.49.04:900][161]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:154][162]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:181][163]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:210][164]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:263][165]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:293][166]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:318][167]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:340][168]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:371][169]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:404][170]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:438][171]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:473][172]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:507][173]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:541][174]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:577][175]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:612][176]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:649][177]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:688][178]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:725][179]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:760][180]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:797][181]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:835][182]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:874][183]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:907][184]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:943][185]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.05:980][186]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:016][187]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:054][188]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:089][189]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:128][190]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:166][191]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:205][192]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:240][193]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:279][194]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:320][195]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:356][196]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:394][197]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:432][198]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:472][199]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:506][200]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:542][201]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:578][202]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:615][203]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:653][204]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:690][205]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:732][206]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:799][207]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:817][208]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:840][209]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:874][210]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:910][211]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:946][212]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.06:980][213]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:016][214]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:054][215]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:089][216]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:122][217]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:158][218]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:193][219]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:231][220]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.07:267][221]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:303][222]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:343][223]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:373][224]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.07:409][225]LogBlueprintUserMessages: [Labyrinth_C_5] -0.218624
+[2020.01.22-14.49.07:444][226]LogBlueprintUserMessages: [Labyrinth_C_5] -0.150216
+[2020.01.22-14.49.07:479][227]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:513][228]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.07:551][229]LogBlueprintUserMessages: [Labyrinth_C_5] -0.180927
+[2020.01.22-14.49.07:585][230]LogBlueprintUserMessages: [Labyrinth_C_5] -0.161761
+[2020.01.22-14.49.07:615][231]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:651][232]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:686][233]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:721][234]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:753][235]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:787][236]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:823][237]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.07:857][238]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.07:893][239]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:926][240]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:961][241]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.07:998][242]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:033][243]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:071][244]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:106][245]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:140][246]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:174][247]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:206][248]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:242][249]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.08:274][250]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.08:313][251]LogBlueprintUserMessages: [Labyrinth_C_5] 1.256751
+[2020.01.22-14.49.08:344][252]LogBlueprintUserMessages: [Labyrinth_C_5] 1.697675
+[2020.01.22-14.49.08:382][253]LogBlueprintUserMessages: [Labyrinth_C_5] 1.426286
+[2020.01.22-14.49.08:417][254]LogBlueprintUserMessages: [Labyrinth_C_5] 0.808331
+[2020.01.22-14.49.08:451][255]LogBlueprintUserMessages: [Labyrinth_C_5] 0.87774
+[2020.01.22-14.49.08:487][256]LogBlueprintUserMessages: [Labyrinth_C_5] 1.178809
+[2020.01.22-14.49.08:519][257]LogBlueprintUserMessages: [Labyrinth_C_5] 1.211156
+[2020.01.22-14.49.08:552][258]LogBlueprintUserMessages: [Labyrinth_C_5] 1.063433
+[2020.01.22-14.49.08:588][259]LogBlueprintUserMessages: [Labyrinth_C_5] 0.710343
+[2020.01.22-14.49.08:623][260]LogBlueprintUserMessages: [Labyrinth_C_5] 0.697494
+[2020.01.22-14.49.08:659][261]LogBlueprintUserMessages: [Labyrinth_C_5] 0.759646
+[2020.01.22-14.49.08:695][262]LogBlueprintUserMessages: [Labyrinth_C_5] 0.803265
+[2020.01.22-14.49.08:726][263]LogBlueprintUserMessages: [Labyrinth_C_5] 1.086117
+[2020.01.22-14.49.08:752][264]LogBlueprintUserMessages: [Labyrinth_C_5] 0.862638
+[2020.01.22-14.49.08:820][265]LogBlueprintUserMessages: [Labyrinth_C_5] 1.504997
+[2020.01.22-14.49.08:840][266]LogBlueprintUserMessages: [Labyrinth_C_5] 0.634357
+[2020.01.22-14.49.08:890][267]LogBlueprintUserMessages: [Labyrinth_C_5] 1.040734
+[2020.01.22-14.49.08:915][268]LogBlueprintUserMessages: [Labyrinth_C_5] 0.388185
+[2020.01.22-14.49.08:963][269]LogBlueprintUserMessages: [Labyrinth_C_5] 0.906448
+[2020.01.22-14.49.09:001][270]LogBlueprintUserMessages: [Labyrinth_C_5] 0.851046
+[2020.01.22-14.49.09:027][271]LogBlueprintUserMessages: [Labyrinth_C_5] 0.787853
+[2020.01.22-14.49.09:070][272]LogBlueprintUserMessages: [Labyrinth_C_5] 0.955094
+[2020.01.22-14.49.09:094][273]LogBlueprintUserMessages: [Labyrinth_C_5] 0.590378
+[2020.01.22-14.49.09:143][274]LogBlueprintUserMessages: [Labyrinth_C_5] 0.935628
+[2020.01.22-14.49.09:159][275]LogBlueprintUserMessages: [Labyrinth_C_5] 0.237018
+[2020.01.22-14.49.09:218][276]LogBlueprintUserMessages: [Labyrinth_C_5] 1.187504
+[2020.01.22-14.49.09:247][277]LogBlueprintUserMessages: [Labyrinth_C_5] 0.665265
+[2020.01.22-14.49.09:285][278]LogBlueprintUserMessages: [Labyrinth_C_5] 0.789943
+[2020.01.22-14.49.09:312][279]LogBlueprintUserMessages: [Labyrinth_C_5] 0.551944
+[2020.01.22-14.49.09:355][280]LogBlueprintUserMessages: [Labyrinth_C_5] 0.761068
+[2020.01.22-14.49.09:377][281]LogBlueprintUserMessages: [Labyrinth_C_5] 0.392671
+[2020.01.22-14.49.09:428][282]LogBlueprintUserMessages: [Labyrinth_C_5] 0.939611
+[2020.01.22-14.49.09:455][283]LogBlueprintUserMessages: [Labyrinth_C_5] 0.487151
+[2020.01.22-14.49.09:498][284]LogBlueprintUserMessages: [Labyrinth_C_5] 0.870646
+[2020.01.22-14.49.09:527][285]LogBlueprintUserMessages: [Labyrinth_C_5] 0.540172
+[2020.01.22-14.49.09:570][286]LogBlueprintUserMessages: [Labyrinth_C_5] 0.923058
+[2020.01.22-14.49.09:604][287]LogBlueprintUserMessages: [Labyrinth_C_5] 0.755723
+[2020.01.22-14.49.09:631][288]LogBlueprintUserMessages: [Labyrinth_C_5] 0.801405
+[2020.01.22-14.49.09:674][289]LogBlueprintUserMessages: [Labyrinth_C_5] 1.065149
+[2020.01.22-14.49.09:692][290]LogBlueprintUserMessages: [Labyrinth_C_5] 0.586475
+[2020.01.22-14.49.09:750][291]LogBlueprintUserMessages: [Labyrinth_C_5] 1.545185
+[2020.01.22-14.49.09:781][292]LogBlueprintUserMessages: [Labyrinth_C_5] 1.022562
+[2020.01.22-14.49.09:810][293]LogBlueprintUserMessages: [Labyrinth_C_5] 0.787288
+[2020.01.22-14.49.09:861][294]LogBlueprintUserMessages: [Labyrinth_C_5] 1.128431
+[2020.01.22-14.49.09:889][295]LogBlueprintUserMessages: [Labyrinth_C_5] 1.003506
+[2020.01.22-14.49.09:935][296]LogBlueprintUserMessages: [Labyrinth_C_5] 1.302207
+[2020.01.22-14.49.09:971][297]LogBlueprintUserMessages: [Labyrinth_C_5] 1.003375
+[2020.01.22-14.49.10:007][298]LogBlueprintUserMessages: [Labyrinth_C_5] 1.262429
+[2020.01.22-14.49.10:023][299]LogBlueprintUserMessages: [Labyrinth_C_5] 0.570625
+[2020.01.22-14.49.10:075][300]LogBlueprintUserMessages: [Labyrinth_C_5] 1.715255
+[2020.01.22-14.49.10:092][301]LogBlueprintUserMessages: [Labyrinth_C_5] 0.624584
+[2020.01.22-14.49.10:147][302]LogBlueprintUserMessages: [Labyrinth_C_5] 1.711075
+[2020.01.22-14.49.10:168][303]LogBlueprintUserMessages: [Labyrinth_C_5] 0.697607
+[2020.01.22-14.49.10:221][304]LogBlueprintUserMessages: [Labyrinth_C_5] 1.941221
+[2020.01.22-14.49.10:242][305]LogBlueprintUserMessages: [Labyrinth_C_5] 0.489951
+[2020.01.22-14.49.10:297][306]LogBlueprintUserMessages: [Labyrinth_C_5] 1.861449
+[2020.01.22-14.49.10:334][307]LogBlueprintUserMessages: [Labyrinth_C_5] 1.337623
+[2020.01.22-14.49.10:361][308]LogBlueprintUserMessages: [Labyrinth_C_5] 1.48746
+[2020.01.22-14.49.10:405][309]LogBlueprintUserMessages: [Labyrinth_C_5] 1.503132
+[2020.01.22-14.49.10:419][310]LogBlueprintUserMessages: [Labyrinth_C_5] 0.279972
+[2020.01.22-14.49.10:477][311]LogBlueprintUserMessages: [Labyrinth_C_5] 1.609451
+[2020.01.22-14.49.10:492][312]LogBlueprintUserMessages: [Labyrinth_C_5] 0.458105
+[2020.01.22-14.49.10:550][313]LogBlueprintUserMessages: [Labyrinth_C_5] 1.333088
+[2020.01.22-14.49.10:575][314]LogBlueprintUserMessages: [Labyrinth_C_5] 0.646721
+[2020.01.22-14.49.10:623][315]LogBlueprintUserMessages: [Labyrinth_C_5] 1.49914
+[2020.01.22-14.49.10:649][316]LogBlueprintUserMessages: [Labyrinth_C_5] 1.869677
+[2020.01.22-14.49.10:689][317]LogBlueprintUserMessages: [Labyrinth_C_5] 2.412219
+[2020.01.22-14.49.10:719][318]LogBlueprintUserMessages: [Labyrinth_C_5] 1.10223
+[2020.01.22-14.49.10:760][319]LogBlueprintUserMessages: [Labyrinth_C_5] 0.970044
+[2020.01.22-14.49.10:787][320]LogBlueprintUserMessages: [Labyrinth_C_5] 0.467386
+[2020.01.22-14.49.10:833][321]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.10:860][322]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.10:905][323]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.10:932][324]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.10:976][325]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:006][326]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:048][327]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:074][328]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:118][329]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:144][330]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:188][331]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:219][332]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:250][333]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:297][334]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:316][335]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:371][336]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:387][337]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:443][338]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:474][339]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:517][340]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:544][341]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:590][342]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:621][343]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:661][344]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:687][345]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:731][346]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:756][347]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:800][348]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:830][349]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:870][350]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:896][351]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:944][352]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.11:966][353]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.12:019][354]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.12:041][355]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.12:088][356]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.12:113][357]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.12:162][358]LogBlueprintUserMessages: [Labyrinth_C_5] -1.454361
+[2020.01.22-14.49.12:196][359]LogBlueprintUserMessages: [Labyrinth_C_5] -0.993083
+[2020.01.22-14.49.12:228][360]LogBlueprintUserMessages: [Labyrinth_C_5] -0.769941
+[2020.01.22-14.49.12:269][361]LogBlueprintUserMessages: [Labyrinth_C_5] -0.860853
+[2020.01.22-14.49.12:289][362]LogBlueprintUserMessages: [Labyrinth_C_5] -0.655233
+[2020.01.22-14.49.12:343][363]LogBlueprintUserMessages: [Labyrinth_C_5] -1.335464
+[2020.01.22-14.49.12:363][364]LogBlueprintUserMessages: [Labyrinth_C_5] -0.461688
+[2020.01.22-14.49.12:418][365]LogBlueprintUserMessages: [Labyrinth_C_5] -1.041332
+[2020.01.22-14.49.12:436][366]LogBlueprintUserMessages: [Labyrinth_C_5] -0.531934
+[2020.01.22-14.49.12:491][367]LogBlueprintUserMessages: [Labyrinth_C_5] -1.589206
+[2020.01.22-14.49.12:510][368]LogBlueprintUserMessages: [Labyrinth_C_5] -0.63253
+[2020.01.22-14.49.12:564][369]LogBlueprintUserMessages: [Labyrinth_C_5] -1.425174
+[2020.01.22-14.49.12:579][370]LogBlueprintUserMessages: [Labyrinth_C_5] -0.448326
+[2020.01.22-14.49.12:639][371]LogBlueprintUserMessages: [Labyrinth_C_5] -1.269224
+[2020.01.22-14.49.12:655][372]LogBlueprintUserMessages: [Labyrinth_C_5] -0.603491
+[2020.01.22-14.49.12:710][373]LogBlueprintUserMessages: [Labyrinth_C_5] -1.538144
+[2020.01.22-14.49.12:738][374]LogBlueprintUserMessages: [Labyrinth_C_5] -0.947867
+[2020.01.22-14.49.12:784][375]LogBlueprintUserMessages: [Labyrinth_C_5] -1.612491
+[2020.01.22-14.49.12:816][376]LogBlueprintUserMessages: [Labyrinth_C_5] -1.467458
+[2020.01.22-14.49.12:858][377]LogBlueprintUserMessages: [Labyrinth_C_5] -1.537856
+[2020.01.22-14.49.12:879][378]LogBlueprintUserMessages: [Labyrinth_C_5] -0.788893
+[2020.01.22-14.49.12:931][379]LogBlueprintUserMessages: [Labyrinth_C_5] -1.576212
+[2020.01.22-14.49.12:965][380]LogBlueprintUserMessages: [Labyrinth_C_5] -1.052543
+[2020.01.22-14.49.13:002][381]LogBlueprintUserMessages: [Labyrinth_C_5] -1.470386
+[2020.01.22-14.49.13:022][382]LogBlueprintUserMessages: [Labyrinth_C_5] -0.905129
+[2020.01.22-14.49.13:073][383]LogBlueprintUserMessages: [Labyrinth_C_5] -1.516647
+[2020.01.22-14.49.13:093][384]LogBlueprintUserMessages: [Labyrinth_C_5] -0.590944
+[2020.01.22-14.49.13:145][385]LogBlueprintUserMessages: [Labyrinth_C_5] -1.345544
+[2020.01.22-14.49.13:165][386]LogBlueprintUserMessages: [Labyrinth_C_5] -0.600615
+[2020.01.22-14.49.13:220][387]LogBlueprintUserMessages: [Labyrinth_C_5] -1.368672
+[2020.01.22-14.49.13:257][388]LogBlueprintUserMessages: [Labyrinth_C_5] -0.823991
+[2020.01.22-14.49.13:291][389]LogBlueprintUserMessages: [Labyrinth_C_5] -0.864354
+[2020.01.22-14.49.13:322][390]LogBlueprintUserMessages: [Labyrinth_C_5] -0.90108
+[2020.01.22-14.49.13:346][391]LogBlueprintUserMessages: [Labyrinth_C_5] -0.746189
+[2020.01.22-14.49.13:395][392]LogBlueprintUserMessages: [Labyrinth_C_5] -1.359827
+[2020.01.22-14.49.13:414][393]LogBlueprintUserMessages: [Labyrinth_C_5] -0.534717
+[2020.01.22-14.49.13:468][394]LogBlueprintUserMessages: [Labyrinth_C_5] -1.348851
+[2020.01.22-14.49.13:485][395]LogBlueprintUserMessages: [Labyrinth_C_5] -0.617798
+[2020.01.22-14.49.13:513][396]LogBlueprintUserMessages: [Labyrinth_C_5] -0.598554
+[2020.01.22-14.49.13:550][397]LogBlueprintUserMessages: [Labyrinth_C_5] -0.977922
+[2020.01.22-14.49.13:589][398]LogBlueprintUserMessages: [Labyrinth_C_5] -1.027229
+[2020.01.22-14.49.13:621][399]LogBlueprintUserMessages: [Labyrinth_C_5] -0.841809
+[2020.01.22-14.49.13:657][400]LogBlueprintUserMessages: [Labyrinth_C_5] -0.934056
+[2020.01.22-14.49.13:695][401]LogBlueprintUserMessages: [Labyrinth_C_5] -0.969715
+[2020.01.22-14.49.13:730][402]LogBlueprintUserMessages: [Labyrinth_C_5] -0.836827
+[2020.01.22-14.49.13:766][403]LogBlueprintUserMessages: [Labyrinth_C_5] -0.783988
+[2020.01.22-14.49.13:797][404]LogBlueprintUserMessages: [Labyrinth_C_5] -0.844968
+[2020.01.22-14.49.13:831][405]LogBlueprintUserMessages: [Labyrinth_C_5] -0.916393
+[2020.01.22-14.49.13:867][406]LogBlueprintUserMessages: [Labyrinth_C_5] -1.073843
+[2020.01.22-14.49.13:902][407]LogBlueprintUserMessages: [Labyrinth_C_5] -0.968642
+[2020.01.22-14.49.13:938][408]LogBlueprintUserMessages: [Labyrinth_C_5] -0.687033
+[2020.01.22-14.49.13:974][409]LogBlueprintUserMessages: [Labyrinth_C_5] -0.482627
+[2020.01.22-14.49.14:010][410]LogBlueprintUserMessages: [Labyrinth_C_5] -0.321603
+[2020.01.22-14.49.14:046][411]LogBlueprintUserMessages: [Labyrinth_C_5] -0.236959
+[2020.01.22-14.49.14:079][412]LogBlueprintUserMessages: [Labyrinth_C_5] -0.074904
+[2020.01.22-14.49.14:112][413]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:145][414]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:179][415]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:213][416]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:248][417]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:280][418]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:313][419]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:350][420]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.14:384][421]LogBlueprintUserMessages: [Labyrinth_C_5] 0.227086
+[2020.01.22-14.49.14:420][422]LogBlueprintUserMessages: [Labyrinth_C_5] 0.150611
+[2020.01.22-14.49.14:455][423]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:490][424]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:528][425]LogBlueprintUserMessages: [Labyrinth_C_5] 0.349965
+[2020.01.22-14.49.14:563][426]LogBlueprintUserMessages: [Labyrinth_C_5] 0.075314
+[2020.01.22-14.49.14:598][427]LogBlueprintUserMessages: [Labyrinth_C_5] 0.121537
+[2020.01.22-14.49.14:630][428]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:666][429]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:699][430]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:734][431]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:768][432]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:804][433]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:843][434]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:878][435]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:913][436]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:951][437]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.14:985][438]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:016][439]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:051][440]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:086][441]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:123][442]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:161][443]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:194][444]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:230][445]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:264][446]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.15:296][447]LogBlueprintUserMessages: [Labyrinth_C_5] -0.072307
+[2020.01.22-14.49.15:331][448]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:369][449]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:398][450]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:431][451]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:467][452]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:503][453]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.15:539][454]LogBlueprintUserMessages: [Labyrinth_C_5] -0.306123
+[2020.01.22-14.49.15:575][455]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:608][456]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:645][457]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.15:680][458]LogBlueprintUserMessages: [Labyrinth_C_5] -0.38657
+[2020.01.22-14.49.15:714][459]LogBlueprintUserMessages: [Labyrinth_C_5] -0.071807
+[2020.01.22-14.49.15:749][460]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:784][461]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.15:819][462]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:855][463]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:890][464]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:929][465]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.15:964][466]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:000][467]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:034][468]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:069][469]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.16:104][470]LogBlueprintUserMessages: [Labyrinth_C_5] -0.307466
+[2020.01.22-14.49.16:143][471]LogBlueprintUserMessages: [Labyrinth_C_5] -0.061463
+[2020.01.22-14.49.16:176][472]LogBlueprintUserMessages: [Labyrinth_C_5] -0.152717
+[2020.01.22-14.49.16:210][473]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:247][474]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.16:284][475]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:318][476]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:352][477]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:385][478]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:415][479]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:448][480]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.16:486][481]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.16:520][482]LogBlueprintUserMessages: [Labyrinth_C_5] -0.233973
+[2020.01.22-14.49.16:555][483]LogBlueprintUserMessages: [Labyrinth_C_5] -0.22606
+[2020.01.22-14.49.16:592][484]LogBlueprintUserMessages: [Labyrinth_C_5] -0.187307
+[2020.01.22-14.49.16:627][485]LogBlueprintUserMessages: [Labyrinth_C_5] -0.225783
+[2020.01.22-14.49.16:664][486]LogBlueprintUserMessages: [Labyrinth_C_5] -0.260095
+[2020.01.22-14.49.16:699][487]LogBlueprintUserMessages: [Labyrinth_C_5] -0.150273
+[2020.01.22-14.49.16:731][488]LogBlueprintUserMessages: [Labyrinth_C_5] -0.14769
+[2020.01.22-14.49.16:765][489]LogBlueprintUserMessages: [Labyrinth_C_5] -0.177638
+[2020.01.22-14.49.16:798][490]LogBlueprintUserMessages: [Labyrinth_C_5] -0.072528
+[2020.01.22-14.49.16:835][491]LogBlueprintUserMessages: [Labyrinth_C_5] -0.153838
+[2020.01.22-14.49.16:872][492]LogBlueprintUserMessages: [Labyrinth_C_5] -0.248213
+[2020.01.22-14.49.16:906][493]LogBlueprintUserMessages: [Labyrinth_C_5] -0.152656
+[2020.01.22-14.49.16:944][494]LogBlueprintUserMessages: [Labyrinth_C_5] -0.310204
+[2020.01.22-14.49.16:979][495]LogBlueprintUserMessages: [Labyrinth_C_5] -0.16388
+[2020.01.22-14.49.17:014][496]LogBlueprintUserMessages: [Labyrinth_C_5] -0.305261
+[2020.01.22-14.49.17:047][497]LogBlueprintUserMessages: [Labyrinth_C_5] -0.145099
+[2020.01.22-14.49.17:081][498]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:117][499]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:152][500]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:190][501]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.17:232][502]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:318][503]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:337][504]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:353][505]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:395][506]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:416][507]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:471][508]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:506][509]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209979
+[2020.01.22-14.49.17:535][510]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:581][511]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:611][512]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:653][513]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.17:683][514]LogBlueprintUserMessages: [Labyrinth_C_5] 0.089487
+[2020.01.22-14.49.17:727][515]LogBlueprintUserMessages: [Labyrinth_C_5] 0.115098
+[2020.01.22-14.49.17:757][516]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:795][517]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:815][518]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.17:869][519]LogBlueprintUserMessages: [Labyrinth_C_5] 0.349965
+[2020.01.22-14.49.17:895][520]LogBlueprintUserMessages: [Labyrinth_C_5] 0.159703
+[2020.01.22-14.49.17:943][521]LogBlueprintUserMessages: [Labyrinth_C_5] 0.13532
+[2020.01.22-14.49.17:976][522]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209074
+[2020.01.22-14.49.18:017][523]LogBlueprintUserMessages: [Labyrinth_C_5] 0.210569
+[2020.01.22-14.49.18:055][524]LogBlueprintUserMessages: [Labyrinth_C_5] 0.122403
+[2020.01.22-14.49.18:077][525]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:122][526]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.18:142][527]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:194][528]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:211][529]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:269][530]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:306][531]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:344][532]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209979
+[2020.01.22-14.49.18:377][533]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:418][534]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:448][535]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:490][536]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.18:519][537]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:561][538]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.18:581][539]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:631][540]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:651][541]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:705][542]LogBlueprintUserMessages: [Labyrinth_C_5] -0.279972
+[2020.01.22-14.49.18:733][543]LogBlueprintUserMessages: [Labyrinth_C_5] -0.185097
+[2020.01.22-14.49.18:780][544]LogBlueprintUserMessages: [Labyrinth_C_5] -0.388342
+[2020.01.22-14.49.18:808][545]LogBlueprintUserMessages: [Labyrinth_C_5] -0.062367
+[2020.01.22-14.49.18:854][546]LogBlueprintUserMessages: [Labyrinth_C_5] -0.129977
+[2020.01.22-14.49.18:890][547]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:916][548]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:959][549]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.18:974][550]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:031][551]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.19:045][552]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:104][553]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.19:138][554]LogBlueprintUserMessages: [Labyrinth_C_5] -0.292792
+[2020.01.22-14.49.19:168][555]LogBlueprintUserMessages: [Labyrinth_C_5] -0.067619
+[2020.01.22-14.49.19:212][556]LogBlueprintUserMessages: [Labyrinth_C_5] -0.147309
+[2020.01.22-14.49.19:251][557]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:272][558]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.19:319][559]LogBlueprintUserMessages: [Labyrinth_C_5] 0.322244
+[2020.01.22-14.49.19:338][560]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:393][561]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:408][562]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:465][563]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.19:494][564]LogBlueprintUserMessages: [Labyrinth_C_5] -0.182233
+[2020.01.22-14.49.19:541][565]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:572][566]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:615][567]LogBlueprintUserMessages: [Labyrinth_C_5] 0.349965
+[2020.01.22-14.49.19:644][568]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.19:686][569]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:719][570]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:756][571]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:782][572]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:827][573]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:856][574]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.19:903][575]LogBlueprintUserMessages: [Labyrinth_C_5] 0.261115
+[2020.01.22-14.49.19:935][576]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.19:975][577]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:010][578]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.20:029][579]LogBlueprintUserMessages: [Labyrinth_C_5] 0.365614
+[2020.01.22-14.49.20:082][580]LogBlueprintUserMessages: [Labyrinth_C_5] 0.455239
+[2020.01.22-14.49.20:098][581]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:155][582]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:170][583]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:227][584]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:249][585]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:289][586]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.20:318][587]LogBlueprintUserMessages: [Labyrinth_C_5] -0.485487
+[2020.01.22-14.49.20:371][588]LogBlueprintUserMessages: [Labyrinth_C_5] -2.467657
+[2020.01.22-14.49.20:410][589]LogBlueprintUserMessages: [Labyrinth_C_5] -2.569619
+[2020.01.22-14.49.20:434][590]LogBlueprintUserMessages: [Labyrinth_C_5] -1.545393
+[2020.01.22-14.49.20:477][591]LogBlueprintUserMessages: [Labyrinth_C_5] -1.832602
+[2020.01.22-14.49.20:497][592]LogBlueprintUserMessages: [Labyrinth_C_5] -0.670294
+[2020.01.22-14.49.20:557][593]LogBlueprintUserMessages: [Labyrinth_C_5] -0.425616
+[2020.01.22-14.49.20:594][594]LogBlueprintUserMessages: [Labyrinth_C_5] -0.603839
+[2020.01.22-14.49.20:626][595]LogBlueprintUserMessages: [Labyrinth_C_5] -0.606428
+[2020.01.22-14.49.20:655][596]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139361
+[2020.01.22-14.49.20:698][597]LogBlueprintUserMessages: [Labyrinth_C_5] -0.725269
+[2020.01.22-14.49.20:727][598]LogBlueprintUserMessages: [Labyrinth_C_5] -0.57696
+[2020.01.22-14.49.20:770][599]LogBlueprintUserMessages: [Labyrinth_C_5] -0.940629
+[2020.01.22-14.49.20:802][600]LogBlueprintUserMessages: [Labyrinth_C_5] -0.831956
+[2020.01.22-14.49.20:842][601]LogBlueprintUserMessages: [Labyrinth_C_5] -0.67332
+[2020.01.22-14.49.20:874][602]LogBlueprintUserMessages: [Labyrinth_C_5] -0.495722
+[2020.01.22-14.49.20:912][603]LogBlueprintUserMessages: [Labyrinth_C_5] -0.390036
+[2020.01.22-14.49.20:939][604]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.20:983][605]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.21:018][606]LogBlueprintUserMessages: [Labyrinth_C_5] -0.562267
+[2020.01.22-14.49.21:058][607]LogBlueprintUserMessages: [Labyrinth_C_5] -0.680853
+[2020.01.22-14.49.21:098][608]LogBlueprintUserMessages: [Labyrinth_C_5] -0.441322
+[2020.01.22-14.49.21:115][609]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.21:166][610]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:193][611]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:240][612]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:277][613]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:307][614]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:333][615]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:380][616]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:407][617]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:454][618]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:479][619]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.21:529][620]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.21:562][621]LogBlueprintUserMessages: [Labyrinth_C_5] -0.06888
+[2020.01.22-14.49.21:588][622]LogBlueprintUserMessages: [Labyrinth_C_5] -0.089521
+[2020.01.22-14.49.21:636][623]LogBlueprintUserMessages: [Labyrinth_C_5] -0.0572
+[2020.01.22-14.49.21:656][624]LogBlueprintUserMessages: [Labyrinth_C_5] -0.069993
+[2020.01.22-14.49.21:711][625]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.21:726][626]LogBlueprintUserMessages: [Labyrinth_C_5] -0.219197
+[2020.01.22-14.49.21:783][627]LogBlueprintUserMessages: [Labyrinth_C_5] -1.283128
+[2020.01.22-14.49.21:798][628]LogBlueprintUserMessages: [Labyrinth_C_5] -0.433986
+[2020.01.22-14.49.21:855][629]LogBlueprintUserMessages: [Labyrinth_C_5] -1.559469
+[2020.01.22-14.49.21:870][630]LogBlueprintUserMessages: [Labyrinth_C_5] -0.378263
+[2020.01.22-14.49.21:925][631]LogBlueprintUserMessages: [Labyrinth_C_5] -1.167875
+[2020.01.22-14.49.21:943][632]LogBlueprintUserMessages: [Labyrinth_C_5] -0.338791
+[2020.01.22-14.49.21:993][633]LogBlueprintUserMessages: [Labyrinth_C_5] -1.111524
+[2020.01.22-14.49.22:010][634]LogBlueprintUserMessages: [Labyrinth_C_5] -0.467638
+[2020.01.22-14.49.22:062][635]LogBlueprintUserMessages: [Labyrinth_C_5] -1.438537
+[2020.01.22-14.49.22:076][636]LogBlueprintUserMessages: [Labyrinth_C_5] -0.408914
+[2020.01.22-14.49.22:136][637]LogBlueprintUserMessages: [Labyrinth_C_5] -0.6948
+[2020.01.22-14.49.22:173][638]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:211][639]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.22:235][640]LogBlueprintUserMessages: [Labyrinth_C_5] -0.268606
+[2020.01.22-14.49.22:280][641]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:293][642]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:351][643]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:367][644]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.22:426][645]LogBlueprintUserMessages: [Labyrinth_C_5] 0.134272
+[2020.01.22-14.49.22:467][646]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:504][647]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.22:522][648]LogBlueprintUserMessages: [Labyrinth_C_5] 0.262263
+[2020.01.22-14.49.22:573][649]LogBlueprintUserMessages: [Labyrinth_C_5] 0.769253
+[2020.01.22-14.49.22:591][650]LogBlueprintUserMessages: [Labyrinth_C_5] 0.44832
+[2020.01.22-14.49.22:646][651]LogBlueprintUserMessages: [Labyrinth_C_5] 0.447462
+[2020.01.22-14.49.22:660][652]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:719][653]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.22:755][654]LogBlueprintUserMessages: [Labyrinth_C_5] 0.310181
+[2020.01.22-14.49.22:787][655]LogBlueprintUserMessages: [Labyrinth_C_5] 0.145473
+[2020.01.22-14.49.22:829][656]LogBlueprintUserMessages: [Labyrinth_C_5] 0.525614
+[2020.01.22-14.49.22:848][657]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.22:902][658]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209979
+[2020.01.22-14.49.22:933][659]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.22:975][660]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:012][661]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:030][662]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:079][663]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:099][664]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:152][665]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.23:178][666]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:225][667]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:258][668]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:298][669]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:320][670]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:370][671]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:387][672]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:443][673]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:473][674]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:518][675]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:548][676]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:588][677]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:619][678]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:649][679]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.23:697][680]LogBlueprintUserMessages: [Labyrinth_C_5] 0.062501
+[2020.01.22-14.49.23:730][681]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:762][682]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:785][683]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:838][684]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:864][685]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:912][686]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:934][687]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.23:984][688]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209979
+[2020.01.22-14.49.24:002][689]LogBlueprintUserMessages: [Labyrinth_C_5] 0.171965
+[2020.01.22-14.49.24:057][690]LogBlueprintUserMessages: [Labyrinth_C_5] 0.258166
+[2020.01.22-14.49.24:073][691]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:130][692]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.24:160][693]LogBlueprintUserMessages: [Labyrinth_C_5] 0.201058
+[2020.01.22-14.49.24:204][694]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:236][695]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:264][696]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:305][697]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:335][698]LogBlueprintUserMessages: [Labyrinth_C_5] -0.139986
+[2020.01.22-14.49.24:382][699]LogBlueprintUserMessages: [Labyrinth_C_5] -0.239953
+[2020.01.22-14.49.24:406][700]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:454][701]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:470][702]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:530][703]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:560][704]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:603][705]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:645][706]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:661][707]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.24:712][708]LogBlueprintUserMessages: [Labyrinth_C_5] 0.139986
+[2020.01.22-14.49.24:727][709]LogBlueprintUserMessages: [Labyrinth_C_5] 0.069993
+[2020.01.22-14.49.24:785][710]LogBlueprintUserMessages: [Labyrinth_C_5] 2.098732
+[2020.01.22-14.49.24:823][711]LogBlueprintUserMessages: [Labyrinth_C_5] 2.781401
+[2020.01.22-14.49.24:853][712]LogBlueprintUserMessages: [Labyrinth_C_5] 1.679832
+[2020.01.22-14.49.24:893][713]LogBlueprintUserMessages: [Labyrinth_C_5] 2.040507
+[2020.01.22-14.49.24:913][714]LogBlueprintUserMessages: [Labyrinth_C_5] 1.19882
+[2020.01.22-14.49.24:963][715]LogBlueprintUserMessages: [Labyrinth_C_5] 2.092889
+[2020.01.22-14.49.25:002][716]LogBlueprintUserMessages: [Labyrinth_C_5] 0.349965
+[2020.01.22-14.49.25:024][717]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:068][718]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:084][719]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:140][720]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:169][721]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:215][722]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:242][723]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:289][724]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:317][725]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:360][726]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:386][727]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:430][728]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:448][729]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:501][730]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:521][731]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:575][732]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:602][733]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:648][734]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:671][735]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:720][736]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:744][737]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:791][738]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:814][739]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:851][740]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:876][741]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:930][742]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.25:958][743]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:005][744]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:033][745]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:076][746]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:103][747]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:146][748]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:173][749]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:218][750]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:238][751]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:292][752]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:319][753]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:365][754]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:389][755]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:435][756]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:460][757]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:507][758]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:531][759]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.26:581][760]LogBlueprintUserMessages: [Labyrinth_C_5] 0.979902
+[2020.01.22-14.49.26:607][761]LogBlueprintUserMessages: [Labyrinth_C_5] 1.498902
+[2020.01.22-14.49.26:652][762]LogBlueprintUserMessages: [Labyrinth_C_5] 1.925392
+[2020.01.22-14.49.26:682][763]LogBlueprintUserMessages: [Labyrinth_C_5] 1.353436
+[2020.01.22-14.49.26:724][764]LogBlueprintUserMessages: [Labyrinth_C_5] 2.301972
+[2020.01.22-14.49.26:753][765]LogBlueprintUserMessages: [Labyrinth_C_5] 1.659479
+[2020.01.22-14.49.26:795][766]LogBlueprintUserMessages: [Labyrinth_C_5] 1.958405
+[2020.01.22-14.49.26:830][767]LogBlueprintUserMessages: [Labyrinth_C_5] 1.472111
+[2020.01.22-14.49.26:854][768]LogBlueprintUserMessages: [Labyrinth_C_5] 1.058228
+[2020.01.22-14.49.26:900][769]LogBlueprintUserMessages: [Labyrinth_C_5] 1.868543
+[2020.01.22-14.49.26:931][770]LogBlueprintUserMessages: [Labyrinth_C_5] 1.354987
+[2020.01.22-14.49.26:971][771]LogBlueprintUserMessages: [Labyrinth_C_5] 1.42738
+[2020.01.22-14.49.26:991][772]LogBlueprintUserMessages: [Labyrinth_C_5] 0.715734
+[2020.01.22-14.49.27:042][773]LogBlueprintUserMessages: [Labyrinth_C_5] 1.121315
+[2020.01.22-14.49.27:078][774]LogBlueprintUserMessages: [Labyrinth_C_5] 0.917783
+[2020.01.22-14.49.27:110][775]LogBlueprintUserMessages: [Labyrinth_C_5] 0.98061
+[2020.01.22-14.49.27:131][776]LogBlueprintUserMessages: [Labyrinth_C_5] 0.936624
+[2020.01.22-14.49.27:184][777]LogBlueprintUserMessages: [Labyrinth_C_5] 1.773541
+[2020.01.22-14.49.27:211][778]LogBlueprintUserMessages: [Labyrinth_C_5] 1.149383
+[2020.01.22-14.49.27:254][779]LogBlueprintUserMessages: [Labyrinth_C_5] 1.38888
+[2020.01.22-14.49.27:282][780]LogBlueprintUserMessages: [Labyrinth_C_5] 0.779232
+[2020.01.22-14.49.27:323][781]LogBlueprintUserMessages: [Labyrinth_C_5] 0.905492
+[2020.01.22-14.49.27:341][782]LogBlueprintUserMessages: [Labyrinth_C_5] 0.339507
+[2020.01.22-14.49.27:393][783]LogBlueprintUserMessages: [Labyrinth_C_5] 0.8013
+[2020.01.22-14.49.27:412][784]LogBlueprintUserMessages: [Labyrinth_C_5] 0.333685
+[2020.01.22-14.49.27:466][785]LogBlueprintUserMessages: [Labyrinth_C_5] 1.29244
+[2020.01.22-14.49.27:486][786]LogBlueprintUserMessages: [Labyrinth_C_5] 0.689099
+[2020.01.22-14.49.27:541][787]LogBlueprintUserMessages: [Labyrinth_C_5] 2.693111
+[2020.01.22-14.49.27:559][788]LogBlueprintUserMessages: [Labyrinth_C_5] 0.98571
+[2020.01.22-14.49.27:615][789]LogBlueprintUserMessages: [Labyrinth_C_5] 2.833618
+[2020.01.22-14.49.27:643][790]LogBlueprintUserMessages: [Labyrinth_C_5] 1.769203
+[2020.01.22-14.49.27:686][791]LogBlueprintUserMessages: [Labyrinth_C_5] 2.277956
+[2020.01.22-14.49.27:706][792]LogBlueprintUserMessages: [Labyrinth_C_5] 1.009405
+[2020.01.22-14.49.27:759][793]LogBlueprintUserMessages: [Labyrinth_C_5] 2.172438
+[2020.01.22-14.49.27:775][794]LogBlueprintUserMessages: [Labyrinth_C_5] 0.650847
+[2020.01.22-14.49.27:828][795]LogBlueprintUserMessages: [Labyrinth_C_5] 1.696501
+[2020.01.22-14.49.27:843][796]LogBlueprintUserMessages: [Labyrinth_C_5] 0.209979
+[2020.01.22-14.49.27:903][797]LogBlueprintUserMessages: [Labyrinth_C_5] 1.275218
+[2020.01.22-14.49.27:937][798]LogBlueprintUserMessages: [Labyrinth_C_5] 0.645917
+[2020.01.22-14.49.27:975][799]LogBlueprintUserMessages: [Labyrinth_C_5] 0.266131
+[2020.01.22-14.49.28:011][800]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:046][801]LogBlueprintUserMessages: [Labyrinth_C_5] -0.209979
+[2020.01.22-14.49.28:061][802]LogBlueprintUserMessages: [Labyrinth_C_5] -0.375666
+[2020.01.22-14.49.28:113][803]LogBlueprintUserMessages: [Labyrinth_C_5] -1.061716
+[2020.01.22-14.49.28:142][804]LogBlueprintUserMessages: [Labyrinth_C_5] -0.982014
+[2020.01.22-14.49.28:184][805]LogBlueprintUserMessages: [Labyrinth_C_5] -1.683802
+[2020.01.22-14.49.28:209][806]LogBlueprintUserMessages: [Labyrinth_C_5] -1.808543
+[2020.01.22-14.49.28:255][807]LogBlueprintUserMessages: [Labyrinth_C_5] -3.383063
+[2020.01.22-14.49.28:293][808]LogBlueprintUserMessages: [Labyrinth_C_5] -3.001267
+[2020.01.22-14.49.28:328][809]LogBlueprintUserMessages: [Labyrinth_C_5] -3.153872
+[2020.01.22-14.49.28:361][810]LogBlueprintUserMessages: [Labyrinth_C_5] -2.97342
+[2020.01.22-14.49.28:376][811]LogBlueprintUserMessages: [Labyrinth_C_5] -1.694356
+[2020.01.22-14.49.28:431][812]LogBlueprintUserMessages: [Labyrinth_C_5] -4.336845
+[2020.01.22-14.49.28:461][813]LogBlueprintUserMessages: [Labyrinth_C_5] -1.908198
+[2020.01.22-14.49.28:491][814]LogBlueprintUserMessages: [Labyrinth_C_5] -1.415684
+[2020.01.22-14.49.28:536][815]LogBlueprintUserMessages: [Labyrinth_C_5] -0.182979
+[2020.01.22-14.49.28:556][816]LogBlueprintUserMessages: [Labyrinth_C_5] 0.278914
+[2020.01.22-14.49.28:607][817]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:633][818]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:677][819]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:705][820]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:748][821]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:779][822]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:810][823]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:856][824]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:872][825]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:929][826]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:947][827]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.28:997][828]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:024][829]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:068][830]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:096][831]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:139][832]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:166][833]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:210][834]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:234][835]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:281][836]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:305][837]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:349][838]LogBlueprintUserMessages: [Labyrinth_C_5] 0.0
+[2020.01.22-14.49.29:353][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.49.29:416][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.49.31:315][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.49.35:403][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.50.14:961][641]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3049f5b68, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.51.18:358][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.51.18:479][760]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.51.18:537][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.51.18:538][760]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.51.18:559][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3049f5b68, Size=4
+[2020.01.22-14.51.18:559][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d928d18, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_179:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.51.18:560][760]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.51.18:570][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a31e592500, Size=736
+[2020.01.22-14.51.18:571][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a31e592500, Size=736, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_181:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.51.18:591][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3067f2080, Size=864, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.51.18:889][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a31e592500, Size=736
+[2020.01.22-14.51.18:889][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d928d18, Size=4
+[2020.01.22-14.51.18:890][760]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (1 blueprints)
+[2020.01.22-14.51.18:890][760]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:51:18)
+[2020.01.22-14.51.18:894][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.51.18:905][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010508s)
+[2020.01.22-14.51.18:907][760]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.51.18:908][760]LogPlayLevel: PIE: World Init took: (0.002563s)
+[2020.01.22-14.51.18:908][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.013512s)
+[2020.01.22-14.51.18:961][760]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.51.19:039][760]LogInit: FAudioDevice initialized.
+[2020.01.22-14.51.19:078][760]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.51.19:080][760]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.51.19
+[2020.01.22-14.51.19:080][760]LogWorld: Bringing up level for play took: 0.001211
+[2020.01.22-14.51.19:082][760]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 1,118
+[2020.01.22-14.51.19:083][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.51.26:555][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.51.26:642][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.51.29:909][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.51.50:672][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.51.56:966][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.52.45:907][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.52.45:987][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.52.46:050][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.52.46:051][396]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.52.46:070][396]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.52.46:082][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3067f2080, Size=864
+[2020.01.22-14.52.46:082][396]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a306e97c80, Size=864, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_185:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.52.46:090][396]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a293713200, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.52.46:306][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a306e97c80, Size=864
+[2020.01.22-14.52.46:307][396]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2020.01.22-14.52.46:307][396]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:52:46)
+[2020.01.22-14.52.46:308][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.52.46:317][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009512s)
+[2020.01.22-14.52.46:319][396]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.52.46:319][396]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2020.01.22-14.52.46:319][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.011719s)
+[2020.01.22-14.52.46:381][396]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.52.46:516][396]LogInit: FAudioDevice initialized.
+[2020.01.22-14.52.46:563][396]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.52.46:565][396]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.52.46
+[2020.01.22-14.52.46:566][396]LogWorld: Bringing up level for play took: 0.001686
+[2020.01.22-14.52.46:569][396]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,605
+[2020.01.22-14.52.46:570][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.01:835][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.01:909][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.03:765][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.53.08:908][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.53.41:088][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.53.41:132][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.53.41:214][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.41:214][470]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.53.41:229][470]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.53.41:244][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a293713200, Size=880
+[2020.01.22-14.53.41:244][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d012780, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_189:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.53.41:252][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30fc18100, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.53.41:521][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d012780, Size=880
+[2020.01.22-14.53.41:522][470]LogPlayLevel: PlayLevel: Blueprint regeneration took 307 ms (1 blueprints)
+[2020.01.22-14.53.41:523][470]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:53:41)
+[2020.01.22-14.53.41:523][470]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.53.41:532][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009087s)
+[2020.01.22-14.53.41:534][470]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.53.41:534][470]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2020.01.22-14.53.41:534][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.011111s)
+[2020.01.22-14.53.41:596][470]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.53.41:694][470]LogInit: FAudioDevice initialized.
+[2020.01.22-14.53.41:740][470]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.53.41:742][470]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.53.41
+[2020.01.22-14.53.41:743][470]LogWorld: Bringing up level for play took: 0.001815
+[2020.01.22-14.53.41:746][470]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth -0,218
+[2020.01.22-14.53.41:746][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.59:222][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.53.59:299][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.54.04:574][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.55.32:895][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.55.32:937][450]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.55.33:012][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.55.33:013][450]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.55.33:032][450]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.55.33:044][450]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30fc18100, Size=880
+[2020.01.22-14.55.33:044][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a320292b00, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_193:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.55.33:053][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a320290b80, Size=888, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.55.33:322][450]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a320292b00, Size=880
+[2020.01.22-14.55.33:323][450]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2020.01.22-14.55.33:323][450]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:55:33)
+[2020.01.22-14.55.33:324][450]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.55.33:334][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009163s)
+[2020.01.22-14.55.33:335][450]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.55.33:336][450]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2020.01.22-14.55.33:336][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.012305s)
+[2020.01.22-14.55.33:401][450]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.55.33:529][450]LogInit: FAudioDevice initialized.
+[2020.01.22-14.55.33:575][450]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.55.33:577][450]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.55.33
+[2020.01.22-14.55.33:577][450]LogWorld: Bringing up level for play took: 0.001664
+[2020.01.22-14.55.33:580][450]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth -0,384
+[2020.01.22-14.55.33:581][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.55.39:889][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.55.39:985][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.55.44:360][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.55.54:366][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.55.54:473][835]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.55.54:526][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.55.54:527][835]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.55.54:547][835]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.55.54:556][835]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a320290b80, Size=888
+[2020.01.22-14.55.54:556][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d010f00, Size=888, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_197:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.55.54:563][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d013c80, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.55.54:778][835]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d010f00, Size=888
+[2020.01.22-14.55.54:779][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 250 ms (1 blueprints)
+[2020.01.22-14.55.54:779][835]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:55:54)
+[2020.01.22-14.55.54:779][835]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.55.54:787][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007560s)
+[2020.01.22-14.55.54:788][835]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.55.54:788][835]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2020.01.22-14.55.54:789][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.009376s)
+[2020.01.22-14.55.54:866][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.55.54:949][835]LogInit: FAudioDevice initialized.
+[2020.01.22-14.55.54:990][835]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.55.54:992][835]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.55.54
+[2020.01.22-14.55.54:993][835]LogWorld: Bringing up level for play took: 0.001550
+[2020.01.22-14.55.54:996][835]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 1,032
+[2020.01.22-14.55.54:997][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.00:060][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.00:150][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.02:771][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.56.15:615][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.56.15:654][229]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-14.56.15:740][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.15:740][229]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-14.56.15:773][229]LogPlayLevel: [PlayLevel] Compiling Labyrinth before play...
+[2020.01.22-14.56.15:789][229]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d013c80, Size=880
+[2020.01.22-14.56.15:789][229]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30c18c800, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_201:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.56.15:798][229]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30d013580, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.56.16:106][229]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30c18c800, Size=880
+[2020.01.22-14.56.16:107][229]LogPlayLevel: PlayLevel: Blueprint regeneration took 366 ms (1 blueprints)
+[2020.01.22-14.56.16:108][229]PIE: New page: PIE session: Labyrinth (22 sty 2020, 14:56:16)
+[2020.01.22-14.56.16:108][229]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-14.56.16:118][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009835s)
+[2020.01.22-14.56.16:119][229]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-14.56.16:120][229]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2020.01.22-14.56.16:120][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.011815s)
+[2020.01.22-14.56.16:236][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-14.56.16:308][229]LogInit: FAudioDevice initialized.
+[2020.01.22-14.56.16:349][229]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-14.56.16:351][229]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-14.56.16
+[2020.01.22-14.56.16:351][229]LogWorld: Bringing up level for play took: 0.001486
+[2020.01.22-14.56.16:355][229]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth 0,39
+[2020.01.22-14.56.16:355][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.27:681][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.27:772][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-14.56.29:616][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-14.56.34:648][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-14.59.29:482][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Labyrinth" FILE="../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.22-14.59.29:536][ 68]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30d013580, Size=880
+[2020.01.22-14.59.29:536][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a30fc19980, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_205:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.59.29:539][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a320292400, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-14.59.29:662][ 68]LogSavePackage: Save=139.39ms
+[2020.01.22-14.59.29:662][ 68]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/LabyrinthC0396056413568FB947BD3888B66045D.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap'
+[2020.01.22-14.59.29:668][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap
+[2020.01.22-14.59.29:707][ 68]LogFileHelpers: Saving map 'Labyrinth' took 3.830
+[2020.01.22-14.59.33:465][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30fc19980, Size=880
