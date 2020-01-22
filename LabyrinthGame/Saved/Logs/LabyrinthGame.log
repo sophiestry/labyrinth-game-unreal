@@ -2034,3 +2034,53 @@ LogInit: Object subsystem initialized
 [2020.01.22-14.59.29:668][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap
 [2020.01.22-14.59.29:707][ 68]LogFileHelpers: Saving map 'Labyrinth' took 3.830
 [2020.01.22-14.59.33:465][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a30fc19980, Size=880
+[2020.01.22-15.04.50:098][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-15.05.20:502][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-15.08.52:027][144]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a31ecb8ab8, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.08.54:852][189]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a31ecb8ab8, Size=4
+[2020.01.22-15.08.54:852][189]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2fb0953c8, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_209:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.08.54:860][189]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2fb097530, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.09.32:729][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2fb097530, Size=4
+[2020.01.22-15.09.32:729][829]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a326cb7460, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_211:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.09.32:744][829]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a326cb7360, Size=4, Default__SKEL_Labyrinth_C Function /Game/Labyrinth.SKEL_Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.10.10:205][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a326cb7460, Size=4
+[2020.01.22-15.10.10:205][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2fb0953c8, Size=4
+[2020.01.22-15.10.10:241][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a326cb7360, Size=4
+[2020.01.22-15.10.10:241][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a297a6ca30, Size=4, Default__SKEL_Labyrinth_C Function /Engine/Transient.REINST_SKEL_Labyrinth_C_213:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.10.10:254][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a320292400, Size=880
+[2020.01.22-15.10.10:254][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3219f1980, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_215:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.10.10:273][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3219f2e80, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.10.10:507][504]LogSavePackage: Save=276.40ms
+[2020.01.22-15.10.10:507][504]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Labyrinth_Auto496EADA1E4D3C6B1589F7FA8FE83C506B.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto4.umap'
+[2020.01.22-15.10.10:510][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Autosaves/Game/Labyrinth_Auto4.umap
+[2020.01.22-15.10.10:513][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Labyrinth' took 0.364
+[2020.01.22-15.10.10:514][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.364
+[2020.01.22-15.10.17:409][630]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.22-15.10.17:473][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-15.10.17:473][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.22-15.10.17:474][630]PIE: New page: PIE session: Labyrinth (22 sty 2020, 15:10:17)
+[2020.01.22-15.10.17:474][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Labyrinth
+[2020.01.22-15.10.17:487][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012833s)
+[2020.01.22-15.10.17:488][630]LogAIModule: Creating AISystem for world Labyrinth
+[2020.01.22-15.10.17:489][630]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2020.01.22-15.10.17:489][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Labyrinth.Labyrinth to /Game/UEDPIE_0_Labyrinth.Labyrinth (0.014729s)
+[2020.01.22-15.10.17:532][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3219f1980, Size=880
+[2020.01.22-15.10.17:533][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a297a6ca30, Size=4
+[2020.01.22-15.10.17:545][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-15.10.17:581][630]LogInit: FAudioDevice initialized.
+[2020.01.22-15.10.17:626][630]LogLoad: Game class is 'GameModeBase'
+[2020.01.22-15.10.17:630][630]LogWorld: Bringing World /Game/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2020.01.22-15.10.17
+[2020.01.22-15.10.17:631][630]LogWorld: Bringing up level for play took: 0.002782
+[2020.01.22-15.10.17:636][630]PIE: Play in editor start time for /Game/UEDPIE_0_Labyrinth -0,329
+[2020.01.22-15.10.17:637][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-15.10.47:651][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-15.10.47:745][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2020.01.22-15.11.07:478][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.22-15.12.02:253][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Labyrinth" FILE="../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.22-15.12.02:352][620]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3219f2e80, Size=880
+[2020.01.22-15.12.02:352][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3219f2e80, Size=880, Default__Labyrinth_C Function /Engine/Transient.REINST_Labyrinth_C_219:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.12.02:360][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3219f2780, Size=880, Default__Labyrinth_C Function /Game/Labyrinth.Labyrinth_C:ExecuteUbergraph_Labyrinth
+[2020.01.22-15.12.02:565][620]LogSavePackage: Save=241.83ms
+[2020.01.22-15.12.02:565][620]LogSavePackage: Moving '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Saved/Labyrinth03DB38C8473E5DD26CF9BBA23F78ECDD.tmp' to '../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap'
+[2020.01.22-15.12.02:569][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zofia Gmur/Documents/labyrinth-game-unity/LabyrinthGame/Content/Labyrinth.umap
+[2020.01.22-15.12.02:597][620]LogFileHelpers: Saving map 'Labyrinth' took 0.458
